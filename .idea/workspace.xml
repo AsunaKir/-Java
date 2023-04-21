@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OXYbIry6PfcxRY1VbIODBGViAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="" />
+      <created>1681708463520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681708463520</updated>
+      <workItem from="1681708465434" duration="87000" />
+      <workItem from="1681708611021" duration="912000" />
+      <workItem from="1681711263727" duration="3000" />
+      <workItem from="1682038810841" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="904" y="186" key="#Project_Structure" timestamp="1681708738250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="186" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708738250" />
+    <state x="1113" y="350" key="FileChooserDialogImpl" timestamp="1681708910379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="350" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708910379" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1681711226367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681711226367" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1681711226367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681711226367" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1681711226367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681711226367" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1681711226367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681711226367" />
+    <state x="813" y="170" key="SettingsEditor" timestamp="1681708731445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708731445" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1682038861464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1682038861464" />
+    <state x="603" y="385" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1681708913602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="385" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708913602" />
+    <state x="590" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1681708900591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="258" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708900591" />
+  </component>
+</project>

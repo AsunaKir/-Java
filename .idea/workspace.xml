@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="" />
+    <list default="true" id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/GenericArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/GenericArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\JavaProjects\DataStructure\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="2OXYbIry6PfcxRY1VbIODBGViAj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +72,7 @@
       <workItem from="1681708465434" duration="87000" />
       <workItem from="1681708611021" duration="912000" />
       <workItem from="1681711263727" duration="3000" />
-      <workItem from="1682038810841" duration="223000" />
+      <workItem from="1682038810841" duration="2391000" />
     </task>
     <servers />
   </component>

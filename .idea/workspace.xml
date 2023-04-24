@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/ArrayStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,8 @@
       <workItem from="1681711263727" duration="3000" />
       <workItem from="1682038810841" duration="2391000" />
       <workItem from="1682218198683" duration="41000" />
-      <workItem from="1682226058802" duration="6538000" />
+      <workItem from="1682226058802" duration="6688000" />
+      <workItem from="1682297237543" duration="268000" />
     </task>
     <servers />
   </component>
@@ -151,11 +152,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="813" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708731445" />
-    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1682226063476">
+    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1682297238126">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1682038861464" />
-    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1682226063476" />
+    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1682297238126" />
     <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1682229613959">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

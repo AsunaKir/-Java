@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cee8659-caca-47b6-8179-6ce95e10870c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/DynamicArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/CircularQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +115,8 @@
       <workItem from="1682297237543" duration="1063000" />
       <workItem from="1682384811850" duration="6222000" />
       <workItem from="1682557231030" duration="8000" />
+      <workItem from="1682599730650" duration="92000" />
+      <workItem from="1682675964883" duration="1367000" />
     </task>
     <servers />
   </component>
@@ -155,11 +156,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="813" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708731445" />
-    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1682599730991">
+    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1682675962967">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1682038861464" />
-    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1682599730991" />
+    <state x="2565" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1682675962967" />
     <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1682229613959">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -168,10 +169,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="385" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708913602" />
-    <state x="473" y="202" width="538" height="532" key="search.everywhere.popup" timestamp="1682149120327">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state x="2511" y="257" width="673" height="679" key="search.everywhere.popup" timestamp="1682676549855">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="202" width="538" height="532" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1682149120327" />
     <state x="590" y="258" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1681708900591" />
+    <state x="2511" y="257" width="673" height="679" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1682676549855" />
   </component>
 </project>
